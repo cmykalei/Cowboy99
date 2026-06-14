@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/GI_Cowboy99.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/L_MainMenu.umap",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/GM_MainMenu.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/Lvl_MainMenu.umap"
+			]
+		}
+	]
+}
