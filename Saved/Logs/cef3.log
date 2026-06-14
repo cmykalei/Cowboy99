@@ -1,0 +1,11 @@
+[19691:19691:0614/150956.985191:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19691:19691:0614/150957.072069:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19691:19985:0614/150958.074750:WARNING:bus.cc(653)] Bus::SendWithReplyAndBlock took 1000ms to process message: type=method_call, path=/org/freedesktop/DBus, interface=org.freedesktop.DBus, member=StartServiceByName
+[19691:19985:0614/150958.074784:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.DBus.StartServiceByName: object_path= /org/freedesktop/DBus: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+[19691:19691:0614/150958.710095:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[19691:19691:0614/150958.710112:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
+[19691:19691:0614/150958.970730:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[19691:19691:0614/150958.970751:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 2 time(s)
+[19691:19691:0614/150959.125542:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
+[19691:19691:0614/150959.125563:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
+[19691:19691:0614/150959.254621:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
