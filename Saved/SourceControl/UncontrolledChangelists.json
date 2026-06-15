@@ -12,7 +12,14 @@
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/L_MainMenu.umap",
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/GM_MainMenu.uasset",
-				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/Lvl_MainMenu.umap"
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/UI/Lvl_MainMenu.umap",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/Input/Actions/IA_Pause.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/Input/IMC_Default.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/Input/Actions/IA_Interact.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/Input/Actions/IA_Attack.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/GM_ThirdPersonGameMode.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Lvl_ThirdPerson.umap"
 			]
 		}
 	]

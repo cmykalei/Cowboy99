@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<ExecutionGuid>C4D242CC14D844759017AAD8820A24CA</ExecutionGuid>
+		<CrashGUID>UECC-Linux-24C46B003D634DFB8282A7AC5A11B6B2_0000</CrashGUID>
+		<IsEnsure>false</IsEnsure>
+		<IsStall>false</IsStall>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<ErrorMessage>Assertion failed: FoundPackage [File:./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 6705] 
+Code not found for generated code (package /Script/ChaosSolverEngine).
+</ErrorMessage>
+		<CrashReporterMessage />
+		<CrashReporterMessage>Attended</CrashReporterMessage>
+		<ProcessId>37499</ProcessId>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsWithDebugInfo>true</IsWithDebugInfo>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<GameName>UE-Cowboy99</GameName>
+		<ExecutableName>UnrealEditor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>LinuxEditor</PlatformName>
+		<PlatformFullName>Linux [CachyOS 7.0.10-2-cachyos 64b]</PlatformFullName>
+		<PlatformNameIni>Linux</PlatformNameIni>
+		<EngineMode>Game</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>5.7.4-51494982+++UE5+Release-5.7</EngineVersion>
+		<EngineCompatibleVersion>5.7.4-51494982+++UE5+Release-5.7</EngineCompatibleVersion>
+		<CommandLine>CommandLineRemoved</CommandLine>
+		<LanguageLCID>9</LanguageLCID>
+		<AppDefaultLocale>en_GB</AppDefaultLocale>
+		<BuildVersion>++UE5+Release-5.7-CL-51494982</BuildVersion>
+		<Symbols>**UE5*Release-5.7-CL-51494982-Linux-Development</Symbols>
+		<IsUERelease>true</IsUERelease>
+		<IsRequestingExit>true</IsRequestingExit>
+		<UserName />
+		<BaseDir>/home/kalei/Linux_Unreal_Engine_5.7.4/Engine/Binaries/Linux/</BaseDir>
+		<RootDir>/home/kalei/Linux_Unreal_Engine_5.7.4/</RootDir>
+		<MachineId>8E5D133A919646D69E6A79CE9881719C-000003E8</MachineId>
+		<LoginId>8e5d133a919646d69e6a79ce9881719c-000003e8</LoginId>
+		<EpicAccountId />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<CrashDumpMode>0</CrashDumpMode>
+		<GameStateName />
+		<Misc.NumberOfCores>8</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>16</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>AuthenticAMD</Misc.CPUVendor>
+		<Misc.CPUBrand>AMD Ryzen 7 7700 8-Core Processor</Misc.CPUBrand>
+		<Misc.CPUModelID>103954</Misc.CPUModelID>
+		<Misc.CPUMicrocodeRevision>174068236</Misc.CPUMicrocodeRevision>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce RTX 5050 (NVIDIA UNIX Open Kernel Module for x86</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>CachyOS</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor>7.0.10-2-cachyos</Misc.OSVersionMinor>
+		<Misc.AnticheatProvider />
+		<MemoryStats.TotalPhysical>32672497664</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>32671526912</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>31</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>19993939968</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>66247434240</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>2049343488</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>2095169536</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>21884399616</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>21935890432</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<NumMinidumpFramesToIgnore>4</NumMinidumpFramesToIgnore>
+		<CallStack>libUnrealEditor-Core.so!FDebug::CheckVerifyFailedImpl2(char const*, char const*, int, char16_t const*, ...) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Misc/AssertionMacros.cpp:741]
+libUnrealEditor-CoreUObject.so!UECodeGen_Private::ConstructUPackage(UPackage*&amp;, UECodeGen_Private::FPackageParams const&amp;) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp:6705]
+libUnrealEditor-ChaosSolverEngine.so!Z_Construct_UPackage__Script_ChaosSolverEngine() [/mnt/horde/++UE5/Sync/Engine/Source/./../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosSolverEngine.init.gen.cpp:28]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::RegisterBuiltInMessageTypes() [/mnt/horde/++UE5/Sync/Engine/Source/../Intermediate/Build/Linux/UnrealEditor/Inc/ChaosSolverEngine/UHT/ChaosVDRemoteSessionsManager.gen.cpp:141]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDRemoteSessionsManager::FChaosVDRemoteSessionsManager() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDRemoteSessionsManager.cpp:117]
+libUnrealEditor-ChaosSolverEngine.so!FChaosVDEngineEditorBridge::FChaosVDEngineEditorBridge() [/mnt/horde/++UE5/Sync/Engine/Source/Runtime/Core/Public/Templates/SharedPointerInternals.h:425]
+libUnrealEditor-ChaosSolverEngine.so!FChaosSolverEnginePlugin::ShutdownModule() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Experimental/ChaosSolverEngine/Private/Chaos/ChaosVDEngineEditorBridge.cpp:167]
+libUnrealEditor-Core.so!FModuleManager::UnloadModule(FName, bool, bool) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1330]
+libUnrealEditor-Core.so!FModuleManager::UnloadModulesAtShutdown() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Core/Private/Modules/ModuleManager.cpp:1473]
+UnrealEditor!FEngineLoop::Exit() [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5122]
+UnrealEditor!GuardedMain(char16_t const*) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Launch/Private/Launch.cpp:71]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/mnt/horde/++UE5/Sync/Engine/Source/./Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:323]
+libc.so.6!UnknownFunction(0x27c4d)
+libc.so.6!__libc_start_main(+0x8a)
+UnrealEditor!_start [/home/kalei/Linux_Unreal_Engine_5.7.4/Engine/Binaries/Linux/UnrealEditor:-1]
+</CallStack>
+		<PCallStack>
+
+libUnrealEditor-Core 0x00007fd46d800000 + bfb899 
+libUnrealEditor-CoreUObject 0x00007fd46ca00000 + a6d428 
+libUnrealEditor-ChaosSolverEngine 0x00007fd44998f000 + 50ab1 
+libUnrealEditor-ChaosSolverEngine 0x00007fd44998f000 + 61f2c 
+libUnrealEditor-ChaosSolverEngine 0x00007fd44998f000 + 6252e 
+libUnrealEditor-ChaosSolverEngine 0x00007fd44998f000 + 6d262 
+libUnrealEditor-ChaosSolverEngine 0x00007fd44998f000 + 5e814 
+libUnrealEditor-Core 0x00007fd46d800000 + d57399 
+libUnrealEditor-Core 0x00007fd46d800000 + d58043 
+UnrealEditor 0x0000000000200000 + 3ebba 
+UnrealEditor 0x0000000000200000 + 3eeb9 
+libUnrealEditor-UnixCommonStartup 0x00007fd46d6d5000 + 9215 
+libc.so 0x00007fd461a00000 + 27c4e 
+libc.so 0x00007fd461a00000 + 27d8b 
+UnrealEditor 0x0000000000200000 + 36e0a 
+</PCallStack>
+		<PCallStackHash>F392C59548672FCFDE545F5C8628DFDBB6F77A06</PCallStackHash>
+		<TimeOfCrash>639170186774030000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<CPUBrand>AMD Ryzen 7 7700 8-Core Processor</CPUBrand>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<CrashSignal>11</CrashSignal>
+		<CrashSignalName>Segmentation fault</CrashSignalName>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+		<CrashTrigger>0</CrashTrigger>
+	</PlatformProperties>
+	<EngineData>
+		<MatchingDPStatus>LinuxEditorNo errors</MatchingDPStatus>
+		<RHI.DriverDenylisted>false</RHI.DriverDenylisted>
+		<RHI.RHIName>Vulkan</RHI.RHIName>
+		<RHI.AdapterName>NVIDIA GeForce RTX 5050</RHI.AdapterName>
+		<RHI.UserDriverVersion>610.43</RHI.UserDriverVersion>
+		<RHI.InternalDriverVersion>610.43</RHI.InternalDriverVersion>
+		<RHI.DriverDate>01-01-01</RHI.DriverDate>
+		<RHI.FeatureLevel>SM6</RHI.FeatureLevel>
+		<RHI.GPUVendor>NVIDIA</RHI.GPUVendor>
+		<RHI.DeviceId>2D83</RHI.DeviceId>
+	</EngineData>
+	<GameData>
+</GameData>
+</FGenericCrashContext>
