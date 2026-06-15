@@ -10197,3 +10197,847 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.15-01.01.57:458][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
 [2026.06.15-01.03.11:822][428]LogUdpMessaging: Display: FUdpMessageProcessor::UpdateKnownNodes: Removing Node FE2FA4F12BB44765A2E3CA582141FA1A (127.0.0.1:35627)
 [2026.06.15-01.03.20:676][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.06.15-01.04.29:378][577]LogBlueprint: Compiling Blueprint '/Game/UI/WBP_MainMenu.WBP_MainMenu'
+[2026.06.15-01.04.29:430][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.15-01.04.30:239][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.06.15-01.04.30:251][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.04.30:331][609]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.30:331][609]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.04.30:337][609]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.04.30:337][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.04.30:337][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.04.30:347][609]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.30:348][609]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu3EB84693321D48C8BE6ACA7548CD7BF6.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.04.30:382][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.466 ms (total: 8.35 sec)
+[2026.06.15-01.04.30:456][609]LogContentValidation: Enabled validators:
+[2026.06.15-01.04.30:456][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.04.30:456][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.04.30:456][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.04.30:456][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.04.30:456][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.04.30:457][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.04.30:457][609]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.04.30:457][609]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.04.30:457][609]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.04.30:457][609]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.04.30:457][609]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.04.30:457][609]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.04.36:215][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.15-01.04.36:221][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.04.36:298][872]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.36:298][872]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.04.36:298][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.04.36:298][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.04.36:309][872]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.36:309][872]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuBC71B81AA5B54746BBBCD97C1A7CA7AE.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.04.36:342][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.618 ms (total: 8.47 sec)
+[2026.06.15-01.04.36:420][872]LogContentValidation: Enabled validators:
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.04.36:420][872]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.04.36:420][872]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.04.36:420][872]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.04.36:421][872]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.04.36:421][872]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.04.36:421][872]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.04.36:421][872]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.04.43:646][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.04.43:652][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.04.43:727][188]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.43:728][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.04.43:728][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.04.43:728][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.04.43:738][188]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.04.43:738][188]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuBEFD2C0EE56F4093B7067AD4D1FC05FF.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.04.43:772][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.503 ms (total: 8.59 sec)
+[2026.06.15-01.04.43:845][188]LogContentValidation: Enabled validators:
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.04.43:845][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.04.43:845][188]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.04.43:845][188]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.04.43:846][188]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.04.43:846][188]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.04.43:846][188]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.04.43:846][188]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.04.55:084][672]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.05.09:026][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.15-01.05.09:035][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.05.09:112][267]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.05.09:112][267]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.05.09:118][267]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.05.09:118][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.05.09:118][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.05.09:130][267]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.05.09:130][267]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu263860B75F584058AF0FBB2C92CEB3F9.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.05.09:166][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.058 ms (total: 8.72 sec)
+[2026.06.15-01.05.09:240][267]LogContentValidation: Enabled validators:
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.05.09:240][267]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.05.09:240][267]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.05.09:241][267]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.05.09:241][267]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.05.09:241][267]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.05.09:241][267]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.05.09:241][267]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.05.20:519][759]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.05.21:027][774]LogEditorTransaction: Undo Paste clipboard contents
+[2026.06.15-01.05.24:141][899]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.05.28:118][ 58]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.05.39:017][449]LogEditorTransaction: Undo Add Node
+[2026.06.15-01.05.43:220][573]LogEditorTransaction: Undo Add Node
+[2026.06.15-01.06.38:966][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.15-01.06.38:973][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.06.39:061][709]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.06.39:062][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.06.39:069][709]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.06.39:069][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.06.39:069][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.06.39:081][709]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.06.39:082][709]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu0863ED727BBF486688E3B84D509178A4.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.06.39:125][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.430 ms (total: 8.88 sec)
+[2026.06.15-01.06.39:208][709]LogContentValidation: Enabled validators:
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.06.39:208][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.06.39:208][709]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.06.39:208][709]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.06.39:209][709]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.06.39:209][709]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.06.39:209][709]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.06.39:209][709]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.06.44:290][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.06.44:295][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.06.44:379][904]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.06.44:379][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.06.44:379][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.06.44:379][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.06.44:390][904]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.06.44:390][904]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuB16BC09E401D439F8ED4DE67412E88D2.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.06.44:427][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.056 ms (total: 9.01 sec)
+[2026.06.15-01.06.44:505][904]LogContentValidation: Enabled validators:
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.06.44:505][904]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.06.44:505][904]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.06.44:505][904]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.06.44:506][904]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.06.44:506][904]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.06.44:506][904]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.06.44:506][904]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.07.18:135][228]LogDerivedDataCache: /home/kalei/.config/Epic/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.15-01.07.19:940][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.07.19:945][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.07.20:033][299]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.07.20:033][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.07.20:033][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.07.20:033][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.07.20:044][299]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.07.20:044][299]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuD20998C508CB411C9FF27628B53F273B.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.07.20:083][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.349 ms (total: 9.14 sec)
+[2026.06.15-01.07.20:162][299]LogContentValidation: Enabled validators:
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.07.20:162][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.07.20:162][299]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.07.20:162][299]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.07.20:163][299]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.07.20:163][299]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.07.20:163][299]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.07.20:163][299]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.07.29:963][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.07.29:968][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.07.30:054][684]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.07.30:054][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.07.30:054][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.07.30:054][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.07.30:065][684]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.07.30:065][684]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu964CF6397B3246EF811CD95CCDBE920B.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.07.30:107][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.271 ms (total: 9.28 sec)
+[2026.06.15-01.07.30:190][684]LogContentValidation: Enabled validators:
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.07.30:190][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.07.30:190][684]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.07.30:190][684]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.07.30:196][684]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.07.30:196][684]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.07.30:196][684]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.07.30:196][684]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.08.02:156][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.15-01.08.02:162][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.08.02:249][893]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.02:250][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.08.02:250][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.08.02:250][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.08.02:260][893]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.02:261][893]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu052A46C51C8440CDA3DB8D7BF69C103F.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.08.02:299][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.182 ms (total: 9.42 sec)
+[2026.06.15-01.08.02:383][893]LogContentValidation: Enabled validators:
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.08.02:383][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.08.02:383][893]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.08.02:383][893]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.08.02:384][893]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.08.02:384][893]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.08.02:384][893]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.08.02:384][893]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.08.13:481][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.15-01.08.13:487][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.08.13:572][319]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.13:572][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.08.13:572][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.08.13:572][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.08.13:583][319]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.13:583][319]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuF7CAAA146D254519879BF4A3EB635BD3.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.08.13:623][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.964 ms (total: 9.56 sec)
+[2026.06.15-01.08.13:704][319]LogContentValidation: Enabled validators:
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.08.13:704][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.08.13:704][319]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.08.13:704][319]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.08.13:705][319]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.08.13:705][319]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.08.13:705][319]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.08.13:705][319]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.08.24:745][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.08.24:751][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.08.24:837][737]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.24:838][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.08.24:838][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.08.24:838][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.08.24:848][737]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.08.24:848][737]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu527C87C0E177448182E5E03611911094.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.08.24:886][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.602 ms (total: 9.69 sec)
+[2026.06.15-01.08.24:969][737]LogContentValidation: Enabled validators:
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.08.24:969][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.08.24:969][737]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.08.24:969][737]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.08.24:969][737]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.08.24:969][737]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.08.24:969][737]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.08.24:969][737]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.11.10:075][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.15-01.11.10:079][ 65]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2026.06.15-01.11.10:080][ 65]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.11.10:081][ 65]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.11.10:081][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.11.10:081][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.06.15-01.11.10:093][ 65]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto5
+[2026.06.15-01.11.10:093][ 65]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu_Auto56B95AAB8B86D427B8A8D4CEC3808CD4E.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto5.uasset'
+[2026.06.15-01.11.10:093][ 65]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.06.15-01.12.12:844][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.12.12:850][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.12.12:938][507]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.12:938][507]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.12.12:938][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.12.12:938][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.12.12:951][507]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.12:951][507]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu15BC93E92F8B4678A7A81D4A860125E8.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.12.12:991][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.887 ms (total: 9.83 sec)
+[2026.06.15-01.12.13:073][507]LogContentValidation: Enabled validators:
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.12.13:073][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.12.13:073][507]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.12.13:073][507]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.12.13:073][507]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.12.13:073][507]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.12.13:073][507]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.12.13:073][507]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.12.25:533][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.06.15-01.12.25:539][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.12.25:626][990]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.25:626][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.12.25:626][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.12.25:626][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.12.25:639][990]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.25:639][990]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuD9D721575E5F45BB9D5D287760C074DA.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.12.25:676][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.145 ms (total: 9.97 sec)
+[2026.06.15-01.12.25:757][990]LogContentValidation: Enabled validators:
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.12.25:757][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.12.25:757][990]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.12.25:757][990]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.12.25:758][990]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.12.25:758][990]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.12.25:758][990]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.12.25:758][990]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.12.33:641][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.15-01.12.33:647][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.12.33:736][286]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.33:736][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.12.33:736][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.12.33:736][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.12.33:747][286]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.33:747][286]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu01F772B3E2C94713ADE6ADFD346A5D13.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.12.33:786][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.104 ms (total: 10.1 sec)
+[2026.06.15-01.12.33:870][286]LogContentValidation: Enabled validators:
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.12.33:870][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.12.33:870][286]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.12.33:870][286]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.12.33:871][286]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.12.33:871][286]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.12.33:871][286]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.12.33:871][286]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.12.52:949][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.12.52:954][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.12.53:043][ 25]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.53:043][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.12.53:043][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.12.53:043][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.12.53:055][ 25]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.53:055][ 25]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu7E65F49FE99A461D8EE8DF74E1DB7221.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.12.53:093][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.161 ms (total: 10.2 sec)
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: Enabled validators:
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.12.53:174][ 25]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.12.53:175][ 25]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.12.53:175][ 25]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.12.53:175][ 25]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.12.53:175][ 25]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.12.57:878][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-01.12.57:884][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.12.57:971][207]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.57:971][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.12.57:971][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.12.57:971][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.12.57:982][207]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.12.57:982][207]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuC0E3F172ED384FE8B6AADFBA4D97A817.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.12.58:022][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.027 ms (total: 10.3 sec)
+[2026.06.15-01.12.58:105][207]LogContentValidation: Enabled validators:
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.12.58:105][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.12.58:105][207]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.12.58:105][207]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.12.58:106][207]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.12.58:106][207]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.12.58:106][207]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.12.58:106][207]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.13.01:312][332]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.13.01:497][333]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.13.13:726][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.15-01.13.13:734][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.13.13:866][782]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.13.13:866][782]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.13.13:872][782]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.13.13:872][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.13.13:872][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.13.13:883][782]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.13.13:883][782]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu1A30A1A4B4304288AD709CB66B4EC880.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.13.13:923][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.888 ms (total: 10.5 sec)
+[2026.06.15-01.13.14:003][782]LogContentValidation: Enabled validators:
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.13.14:003][782]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.13.14:003][782]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.13.14:003][782]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.13.14:004][782]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.13.14:004][782]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.13.14:004][782]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.13.14:004][782]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.15.09:901][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.15.09:908][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.15.09:997][133]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.15.09:998][133]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.15.10:004][133]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.15.10:004][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.15.10:004][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.15.10:015][133]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.15.10:015][133]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu0BD7BAC0983042E99C2AEFBF28FAF67B.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.15.10:057][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.230 ms (total: 10.7 sec)
+[2026.06.15-01.15.10:142][133]LogContentValidation: Enabled validators:
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.15.10:142][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.15.10:142][133]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.15.10:142][133]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.15.10:143][133]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.15.10:143][133]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.15.10:143][133]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.15.10:143][133]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.15.20:209][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.15.20:214][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.15.20:304][505]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.15.20:304][505]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.15.20:304][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.15.20:304][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.15.20:316][505]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.15.20:316][505]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu842302E1CF134148BE40047DF7E997CC.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.15.20:358][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.542 ms (total: 10.8 sec)
+[2026.06.15-01.15.20:440][505]LogContentValidation: Enabled validators:
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.15.20:440][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.15.20:440][505]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.15.20:440][505]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.15.20:440][505]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.15.20:440][505]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.15.20:440][505]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.15.20:440][505]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.21.10:511][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.06.15-01.21.10:515][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.037
+[2026.06.15-01.21.10:515][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.21.10:516][659]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.21.10:516][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.21.10:516][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.06.15-01.21.10:527][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_MainMenu_Auto6
+[2026.06.15-01.21.10:527][659]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu_Auto61A8D1447C3A141CFAD3F743680112090.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Saved/Autosaves/Game/UI/WBP_MainMenu_Auto6.uasset'
+[2026.06.15-01.21.10:527][659]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.06.15-01.21.49:712][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-01.21.49:720][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.21.49:810][146]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.21.49:810][146]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.21.49:816][146]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.21.49:816][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.21.49:816][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.21.49:827][146]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.21.49:827][146]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuD5AADF95781E423AB207A082F0CC1DDB.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.21.49:868][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.384 ms (total: 11.0 sec)
+[2026.06.15-01.21.49:953][146]LogContentValidation: Enabled validators:
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.21.49:954][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.21.49:954][146]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.21.49:954][146]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.21.49:954][146]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.21.49:954][146]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.21.49:954][146]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.21.49:954][146]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.23.26:118][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.15-01.23.26:126][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.23.26:216][671]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.23.26:216][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.23.26:222][671]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.23.26:222][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.23.26:222][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.23.26:232][671]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.23.26:232][671]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu445FE92BF02F415FBB0C9358F509B7D9.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.23.26:273][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.818 ms (total: 11.1 sec)
+[2026.06.15-01.23.26:356][671]LogContentValidation: Enabled validators:
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.23.26:356][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.23.26:356][671]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.23.26:356][671]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.23.26:357][671]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.23.26:357][671]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.23.26:357][671]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.23.26:357][671]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.24.14:028][367]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.15:150][403]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.15:332][404]LogEditorTransaction: Undo Promote To Variable
+[2026.06.15-01.24.15:546][405]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.15:731][406]LogEditorTransaction: Undo Add Node
+[2026.06.15-01.24.15:793][406]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.15:948][407]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.16:163][408]LogEditorTransaction: Undo Create Pin Link
+[2026.06.15-01.24.16:379][409]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.16:582][410]LogEditorTransaction: Undo Create Pin Link
+[2026.06.15-01.24.16:799][411]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.16:862][411]LogEditorTransaction: Undo Create Pin Link
+[2026.06.15-01.24.17:013][412]LogEditorTransaction: Undo Add Node
+[2026.06.15-01.24.17:238][413]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.17:465][414]LogEditorTransaction: Undo Add Node
+[2026.06.15-01.24.17:529][414]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.17:681][415]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.17:899][416]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.17:960][416]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.18:100][417]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.18:317][418]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.24.18:547][419]LogEditorTransaction: Undo Create Pin Link
+[2026.06.15-01.24.18:610][419]LogEditorTransaction: Undo Create Pin Link
+[2026.06.15-01.24.18:759][420]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.18:976][421]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.19:196][422]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.19:461][425]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.19:727][427]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.24.19:956][428]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.20:175][429]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.20:394][430]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.20:613][431]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.21:003][437]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.24.21:245][439]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.21:532][442]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.21:776][444]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.22:048][447]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.22:266][448]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.22:542][451]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.22:864][455]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.23:622][472]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.23:830][473]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.24:331][482]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.24:734][488]LogEditorTransaction: Undo Delete current selection
+[2026.06.15-01.24.52:631][286]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.57:173][410]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.57:612][415]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.58:006][421]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.24.58:355][426]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.26.18:651][626]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.26.40:775][245]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-01.26.41:052][246]LogEditorTransaction: Undo Move Node
+[2026.06.15-01.27.23:277][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.27.23:403][381]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.27.23:403][381]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.27.23:411][381]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.27.23:411][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.27.23:411][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.27.23:422][381]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.27.23:422][381]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuD4CB2671D55F4B88926444A846D25F75.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.27.23:574][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.291 ms (total: 11.4 sec)
+[2026.06.15-01.27.23:777][381]LogContentValidation: Enabled validators:
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.27.23:777][381]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.27.23:777][381]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.27.23:777][381]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.27.23:778][381]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.27.23:778][381]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.27.23:778][381]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.27.23:778][381]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.28.23:147][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.15-01.28.23:160][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.28.23:274][985]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.28.23:274][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.28.23:287][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.28.23:287][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.28.23:287][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.28.23:297][985]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.28.23:297][985]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu6ED0F58225AC40DB87D6E76A322754FF.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.28.23:456][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.514 ms (total: 11.7 sec)
+[2026.06.15-01.28.23:649][985]LogContentValidation: Enabled validators:
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.28.23:649][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.28.23:649][985]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.28.23:649][985]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.28.23:649][985]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.28.23:649][985]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.28.23:649][985]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.28.23:649][985]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.28.32:912][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.15-01.28.32:918][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.28.33:037][238]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.28.33:037][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.28.33:037][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.28.33:037][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.28.33:049][238]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.28.33:049][238]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuE11F61E1B4DF416E92128B9AEAF11E53.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.28.33:196][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.836 ms (total: 12.0 sec)
+[2026.06.15-01.28.33:399][238]LogContentValidation: Enabled validators:
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.28.33:399][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.28.33:399][238]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.28.33:399][238]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.28.33:399][238]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.28.33:399][238]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.28.33:399][238]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.28.33:399][238]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.29.19:706][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.06.15-01.29.19:712][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.29.19:828][538]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.29.19:828][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.29.19:828][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.29.19:828][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.29.19:838][538]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.29.19:839][538]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu50483DCDAB97447FACEE048251A38D43.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.29.20:011][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.450 ms (total: 12.3 sec)
+[2026.06.15-01.29.20:185][538]LogContentValidation: Enabled validators:
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.29.20:185][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.29.20:185][538]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.29.20:185][538]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.29.20:186][538]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.29.20:186][538]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.29.20:186][538]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.29.20:186][538]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.29.57:266][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.15-01.29.57:274][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.29.57:386][490]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.29.57:387][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.29.57:399][490]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.29.57:399][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.29.57:399][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.29.57:410][490]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.29.57:410][490]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuE1A34FB395044B3DAEB4F92C136AF018.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.29.57:561][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 286.864 ms (total: 12.6 sec)
+[2026.06.15-01.29.57:766][490]LogContentValidation: Enabled validators:
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.29.57:766][490]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.29.57:766][490]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.29.57:766][490]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.29.57:766][490]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.29.57:767][490]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.29.57:767][490]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.29.57:767][490]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.30.13:030][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.06.15-01.30.13:038][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.30.13:153][884]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.30.13:153][884]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.30.13:165][884]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.30.13:165][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.30.13:165][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.30.13:176][884]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.30.13:176][884]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu83182E17674A40728F173E611F10F7F8.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.30.13:468][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 430.531 ms (total: 13.0 sec)
+[2026.06.15-01.30.13:643][884]LogContentValidation: Enabled validators:
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.30.13:643][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.30.13:643][884]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.30.13:643][884]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.30.13:644][884]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.30.13:644][884]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.30.13:644][884]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.30.13:644][884]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.30.32:541][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.30.32:547][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.30.32:661][407]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.30.32:661][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.30.32:674][407]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.30.32:674][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.30.32:674][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.30.32:684][407]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.30.32:684][407]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu867A1154CA204888B20C528B0944BD3A.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.30.32:837][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.153 ms (total: 13.3 sec)
+[2026.06.15-01.30.33:046][407]LogContentValidation: Enabled validators:
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.30.33:046][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.30.33:046][407]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.30.33:046][407]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.30.33:046][407]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.30.33:046][407]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.30.33:046][407]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.30.33:046][407]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.31.04:776][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.31.04:782][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.31.04:895][292]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.31.04:895][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.31.04:895][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.31.04:895][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.31.04:905][292]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.31.04:906][292]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuF313A5EA056E40008DCD4279439B9DF8.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.31.05:056][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 274.011 ms (total: 13.6 sec)
+[2026.06.15-01.31.05:253][292]LogContentValidation: Enabled validators:
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.31.05:253][292]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.31.05:253][292]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.31.05:253][292]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.31.05:254][292]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.31.05:254][292]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.31.05:254][292]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.31.05:254][292]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.31.37:425][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.06.15-01.31.37:431][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.31.37:544][186]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.31.37:545][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.31.37:545][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.31.37:545][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.31.37:555][186]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.31.37:555][186]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu7F9701A7D9BA4D51A21B932DBE7A8ACB.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.31.37:857][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 426.099 ms (total: 14.0 sec)
+[2026.06.15-01.31.38:024][186]LogContentValidation: Enabled validators:
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.31.38:024][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.31.38:024][186]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.31.38:024][186]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.31.38:025][186]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.31.38:025][186]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.31.38:025][186]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.31.38:025][186]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.32.00:499][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.32.00:505][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.32.00:622][804]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.32.00:622][804]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.32.00:622][804]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.32.00:622][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.32.00:634][804]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.32.00:634][804]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu5CC257A71A034669BA879425D679F996.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.32.00:793][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 288.148 ms (total: 14.3 sec)
+[2026.06.15-01.32.00:984][804]LogContentValidation: Enabled validators:
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.32.00:984][804]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.32.00:984][804]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.32.00:984][804]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.32.00:984][804]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.32.00:984][804]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.32.00:984][804]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.32.00:984][804]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.32.01:339][807]LogBlueprint: Compiling Blueprint '/Game/UI/WBP_MainMenu.WBP_MainMenu'
+[2026.06.15-01.32.01:393][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.06.15-01.32.36:839][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.15-01.32.36:848][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.32.36:963][787]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.32.36:963][787]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.32.36:976][787]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.06.15-01.32.36:976][787]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.32.36:976][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.32.36:987][787]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.32.36:987][787]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenu80E029C4E56148759EC0A4743CA80820.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.32.37:282][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.675 ms (total: 14.7 sec)
+[2026.06.15-01.32.37:462][787]LogContentValidation: Enabled validators:
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.32.37:462][787]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.32.37:462][787]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.32.37:462][787]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.32.37:462][787]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.32.37:462][787]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.32.37:462][787]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.32.37:462][787]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.32.45:237][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.33.08:538][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.06.15-01.33.08:545][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.33.08:664][646]LogFileHelpers: Saving Package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.33.08:665][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.06.15-01.33.08:665][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_MainMenu]
+[2026.06.15-01.33.08:665][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_MainMenu" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.06.15-01.33.08:675][646]LogSavePackage: Moving output files for package: /Game/UI/WBP_MainMenu
+[2026.06.15-01.33.08:675][646]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/WBP_MainMenuDB2D4BC16B6C4B65A9B5D2EB8C5DD6E1.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/UI/WBP_MainMenu.uasset'
+[2026.06.15-01.33.08:993][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 448.067 ms (total: 15.2 sec)
+[2026.06.15-01.33.09:167][646]LogContentValidation: Enabled validators:
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.33.09:167][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.33.09:167][646]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.33.09:167][646]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.33.09:168][646]AssetCheck: /Game/UI/WBP_MainMenu Validating asset
+[2026.06.15-01.33.09:168][646]LogContentValidation: Validated asset counts for 2 validators:
+[2026.06.15-01.33.09:168][646]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-01.33.09:168][646]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 1
+[2026.06.15-01.33.30:350][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.33.45:263][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.06.15-01.33.45:269][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-01.33.45:383][642]LogFileHelpers: Saving Package: /Game/ThirdPerson/Blueprints/GM_ThirdPersonGameMode
+[2026.06.15-01.33.45:383][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/GM_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.06.15-01.33.45:383][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/GM_ThirdPersonGameMode]
+[2026.06.15-01.33.45:387][642]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/GM_ThirdPersonGameMode
+[2026.06.15-01.33.45:387][642]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/GM_ThirdPersonGameMode4029D9CB3D3341409973322F3E4B3FBE.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/GM_ThirdPersonGameMode.uasset'
+[2026.06.15-01.33.45:703][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 433.422 ms (total: 15.6 sec)
+[2026.06.15-01.33.45:871][642]LogContentValidation: Enabled validators:
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-01.33.45:871][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-01.33.45:871][642]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-01.33.45:871][642]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-01.33.45:871][642]AssetCheck: /Game/ThirdPerson/Blueprints/GM_ThirdPersonGameMode Validating asset
+[2026.06.15-01.33.45:871][642]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-01.33.45:871][642]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
