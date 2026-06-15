@@ -1,0 +1,4 @@
+Breadcrumbs 'RDGExecute_RenderThread'
+ - RenderGraphExecute - /HitProxies
+ - SceneRender - HitProxies
+ - Frame 0
