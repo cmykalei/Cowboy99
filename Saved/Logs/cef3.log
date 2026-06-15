@@ -9,3 +9,5 @@
 [66145:66145:0615/133550.596627:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
 [66145:66145:0615/133550.596649:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
 [66145:66145:0615/133550.727568:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
+[66145:66365:0615/152921.193074:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[66145:66145:0615/154108.027843:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
