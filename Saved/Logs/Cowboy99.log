@@ -2534,3 +2534,810 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.15-03.51.14:742][ 80]AssetCheck: /Game/AI/BP_AICharacter Validating asset
 [2026.06.15-03.51.14:742][ 80]LogContentValidation: Validated asset counts for 1 validators:
 [2026.06.15-03.51.14:742][ 80]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-03.52.11:879][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-03.56.05:402][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.15-03.56.05:408][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-03.56.05:452][192]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-03.56.05:453][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-03.56.05:453][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-03.56.05:453][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-03.56.05:460][192]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-03.56.05:460][192]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter295BFE79BB804DA9B5373681E757E0F9.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-03.56.05:469][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.024 ms (total: 673.069 ms)
+[2026.06.15-03.56.05:510][192]LogContentValidation: Enabled validators:
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-03.56.05:510][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-03.56.05:510][192]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-03.56.05:510][192]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-03.56.05:510][192]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-03.56.05:510][192]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-03.56.05:510][192]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-03.58.05:999][256]LogSlate: Took 0.000048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.06.15-03.58.20:033][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-03.58.20:039][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-03.58.20:083][563]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-03.58.20:083][563]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-03.58.20:097][563]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-03.58.20:097][563]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-03.58.20:097][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-03.58.20:105][563]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-03.58.20:105][563]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterDD959AEF872E4331BB00A7EDAE6EE332.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-03.58.20:116][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.182 ms (total: 749.252 ms)
+[2026.06.15-03.58.20:156][563]LogContentValidation: Enabled validators:
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-03.58.20:156][563]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-03.58.20:156][563]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-03.58.20:156][563]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-03.58.20:156][563]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-03.58.20:156][563]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-03.58.20:156][563]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-03.58.21:292][689]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-03.58.21:347][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.15-03.58.57:153][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.06.15-03.58.57:160][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-03.58.57:203][200]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-03.58.57:203][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-03.58.57:217][200]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-03.58.57:217][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-03.58.57:217][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-03.58.57:226][200]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-03.58.57:226][200]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterAAEAEE03E81045DBA0BE51425BF3D77B.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-03.58.57:235][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.637 ms (total: 823.889 ms)
+[2026.06.15-03.58.57:274][200]LogContentValidation: Enabled validators:
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-03.58.57:274][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-03.58.57:274][200]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-03.58.57:274][200]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-03.58.57:275][200]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-03.58.57:275][200]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-03.58.57:275][200]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-03.59.03:274][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-03.59.03:280][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-03.59.03:325][676]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-03.59.03:325][676]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-03.59.03:338][676]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-03.59.03:338][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-03.59.03:338][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-03.59.03:347][676]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-03.59.03:347][676]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter7A905BBD75394C05A6E4CC5C0E936223.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-03.59.03:357][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.746 ms (total: 900.636 ms)
+[2026.06.15-03.59.03:397][676]LogContentValidation: Enabled validators:
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-03.59.03:397][676]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-03.59.03:397][676]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-03.59.03:397][676]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-03.59.03:397][676]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-03.59.03:397][676]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-03.59.03:397][676]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-03.59.33:769][129]LogSlate: Took 0.000034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.06.15-03.59.39:827][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.15-03.59.39:834][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-03.59.39:880][833]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-03.59.39:880][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-03.59.39:894][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-03.59.39:894][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-03.59.39:894][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-03.59.39:903][833]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-03.59.39:903][833]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterFC5237A6C72E4645B5EEDC340BCFF6F5.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-03.59.39:913][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.675 ms (total: 979.311 ms)
+[2026.06.15-03.59.39:953][833]LogContentValidation: Enabled validators:
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-03.59.39:953][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-03.59.39:953][833]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-03.59.39:953][833]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-03.59.39:954][833]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-03.59.39:954][833]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-03.59.39:954][833]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.00.35:811][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.15-04.00.35:818][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.00.35:862][446]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.00.35:862][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.00.35:876][446]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.00.35:876][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.00.35:876][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.00.35:886][446]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.00.35:886][446]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterF6223482DD654AD283546F71365CD9CD.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.00.35:897][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.843 ms (total: 1.05 sec)
+[2026.06.15-04.00.35:938][446]LogContentValidation: Enabled validators:
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.00.35:938][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.00.35:938][446]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.00.35:938][446]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.00.35:938][446]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.00.35:938][446]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.00.35:938][446]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.01.30:792][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.01.30:798][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.01.30:843][256]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.01.30:843][256]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.01.30:857][256]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.01.30:857][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.01.30:857][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.01.30:865][256]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.01.30:865][256]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter41C4ECFE698E47A29A9A3C69510AD242.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.01.30:875][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.327 ms (total: 1.13 sec)
+[2026.06.15-04.01.30:915][256]LogContentValidation: Enabled validators:
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.01.30:915][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.01.30:915][256]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.01.30:915][256]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.01.30:915][256]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.01.30:915][256]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.01.30:915][256]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.02.12:883][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-04.02.12:889][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.02.12:933][149]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.12:933][149]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.02.12:947][149]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.02.12:947][149]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.02.12:947][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.02.12:956][149]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.12:957][149]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterF6F17BAAA8034AA2BC1EB32269124064.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.02.12:966][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.519 ms (total: 1.21 sec)
+[2026.06.15-04.02.13:005][149]LogContentValidation: Enabled validators:
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.02.13:005][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.02.13:005][149]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.02.13:005][149]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.02.13:005][149]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.02.13:005][149]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.02.13:005][149]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.02.25:203][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.15-04.02.25:209][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.02.25:253][569]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.25:253][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.02.25:267][569]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.02.25:267][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.02.25:267][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.02.25:276][569]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.25:277][569]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter4225FB5DE26444DEBB394E42515B6D59.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.02.25:285][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.105 ms (total: 1.28 sec)
+[2026.06.15-04.02.25:325][569]LogContentValidation: Enabled validators:
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.02.25:325][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.02.25:325][569]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.02.25:325][569]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.02.25:325][569]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.02.25:326][569]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.02.25:326][569]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.02.27:044][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.02.33:075][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.02.33:079][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.02.33:123][125]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.33:123][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.02.33:137][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.02.33:137][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.02.33:137][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.02.33:146][125]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.33:146][125]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterCEA5809051D5489DA6CB1685E63EE58D.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.02.33:155][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.220 ms (total: 1.36 sec)
+[2026.06.15-04.02.33:197][125]LogContentValidation: Enabled validators:
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.02.33:197][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.02.33:197][125]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.02.33:197][125]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.02.33:197][125]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.02.33:197][125]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.02.33:197][125]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.02.58:800][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.02.58:805][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.02.58:848][852]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.58:849][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.02.58:863][852]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.02.58:863][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.02.58:863][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.02.58:871][852]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.02.58:871][852]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter96342F4C919C4EF8BF48C05ED4BEDEBE.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.02.58:880][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.614 ms (total: 1.43 sec)
+[2026.06.15-04.02.58:919][852]LogContentValidation: Enabled validators:
+[2026.06.15-04.02.58:919][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.02.58:920][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.02.58:920][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.02.58:920][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.02.58:920][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.02.58:920][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.02.58:920][852]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.02.58:920][852]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.02.58:920][852]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.02.58:920][852]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.02.58:920][852]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.05.16:333][196]LogEditorTransaction: Undo Move Nodes
+[2026.06.15-04.05.21:586][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.05.21:591][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.05.21:638][779]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.21:638][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.05.21:652][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.05.21:652][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.05.21:652][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.05.21:660][779]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.21:661][779]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter572F367206B54E60AC963070D2ECA9A6.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.05.21:671][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.826 ms (total: 1.51 sec)
+[2026.06.15-04.05.21:711][779]LogContentValidation: Enabled validators:
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.05.21:711][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.05.21:711][779]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.05.21:711][779]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.05.21:711][779]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.05.21:711][779]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.05.21:711][779]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.05.23:769][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.05.23:772][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.05.23:817][  8]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.23:817][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.05.23:817][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.05.23:817][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.05.23:825][  8]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.23:825][  8]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter1CBEC59C1EB54BAEA6C3BB17FCA81A85.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.05.23:835][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.892 ms (total: 1.58 sec)
+[2026.06.15-04.05.23:876][  8]LogContentValidation: Enabled validators:
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.05.23:876][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.05.23:876][  8]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.05.23:876][  8]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.05.23:876][  8]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.05.23:876][  8]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.05.23:876][  8]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.05.36:198][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.06.15-04.05.36:202][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.05.36:247][325]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.36:247][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.05.36:261][325]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.05.36:261][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.05.36:261][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.05.36:271][325]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.05.36:271][325]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter6181EE240E2C49F28DA3364436D3BF8A.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.05.36:280][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.342 ms (total: 1.66 sec)
+[2026.06.15-04.05.36:321][325]LogContentValidation: Enabled validators:
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.05.36:321][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.05.36:321][325]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.05.36:321][325]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.05.36:321][325]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.05.36:321][325]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.05.36:321][325]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.07:832][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-04.06.07:836][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.07:896][122]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.07:896][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.07:917][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.06.07:917][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.07:917][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.07:926][122]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.07:926][122]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterB1B98B2BD3C14E42917F9036135E4444.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.07:941][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.717 ms (total: 1.76 sec)
+[2026.06.15-04.06.08:125][122]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.08:125][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.08:125][122]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.08:125][122]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.08:125][122]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.08:125][122]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.08:126][122]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.11:567][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.06.11:570][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.11:616][472]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.11:616][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.11:616][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.11:616][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.11:624][472]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.11:625][472]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterD1E89EC6173C4902AA0C8034349520EC.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.11:634][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.385 ms (total: 1.82 sec)
+[2026.06.15-04.06.11:673][472]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.11:673][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.11:673][472]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.11:673][472]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.11:673][472]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.11:673][472]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.11:673][472]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.18:058][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-04.06.18:062][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.18:108][137]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.18:108][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.18:108][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.18:108][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.18:117][137]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.18:117][137]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterE70AFD7F7EB64801B2377DDA10CCFF61.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.18:127][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.582 ms (total: 1.89 sec)
+[2026.06.15-04.06.18:167][137]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.18:167][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.18:167][137]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.18:167][137]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.18:167][137]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.18:167][137]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.18:167][137]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.29:327][456]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-04.06.29:386][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.15-04.06.29:696][482]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-04.06.29:752][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.06.15-04.06.40:874][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.15-04.06.40:879][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.40:925][697]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.40:925][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.40:939][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.06.40:939][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.40:939][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.40:948][697]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.40:948][697]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterEAB3121FF54643588D01319655B405E6.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.40:958][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.084 ms (total: 1.97 sec)
+[2026.06.15-04.06.40:999][697]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.40:999][697]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.40:999][697]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.40:999][697]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.40:999][697]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.40:999][697]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.40:999][697]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.53:091][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.06.53:095][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.53:140][ 96]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.53:140][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.53:140][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.53:140][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.53:148][ 96]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.53:148][ 96]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter6F913650E87D4384A8A095941E573CCF.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.53:159][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.804 ms (total: 2.03 sec)
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.53:200][ 96]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.53:200][ 96]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.53:200][ 96]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.06.54:831][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.06.58:626][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.06.58:629][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.06.58:675][706]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.58:676][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.06.58:676][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.06.58:676][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.06.58:683][706]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.06.58:683][706]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter2CADEA029B414E1C851438DDD5BCD8B0.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.06.58:693][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.984 ms (total: 2.10 sec)
+[2026.06.15-04.06.58:735][706]LogContentValidation: Enabled validators:
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.06.58:735][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.06.58:735][706]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.06.58:735][706]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.06.58:735][706]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.06.58:735][706]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.06.58:735][706]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.07.11:902][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.07.11:906][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.07.11:954][175]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.07.11:954][175]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.07.11:968][175]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.07.11:968][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.07.11:968][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.07.11:976][175]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.07.11:977][175]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter3274D7677EE541C69DE6DF6E1D6A9B97.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.07.11:987][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.071 ms (total: 2.18 sec)
+[2026.06.15-04.07.12:028][175]LogContentValidation: Enabled validators:
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.07.12:028][175]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.07.12:028][175]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.07.12:028][175]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.07.12:028][175]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.07.12:028][175]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.07.12:028][175]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.07.13:060][292]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-04.07.13:119][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.15-04.07.16:466][670]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.15-04.07.16:471][670]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.15-04.07.16:471][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.15-04.07.16:472][670]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Lvl_MainMenu
+[2026.06.15-04.07.16:472][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000675s)
+[2026.06.15-04.07.16:472][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Lvl_MainMenu.Lvl_MainMenu to /Game/UI/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu (0.000703s)
+[2026.06.15-04.07.16:501][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.15-04.07.16:504][670]r.SetRes = "800x800w"
+[2026.06.15-04.07.16:504][670]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_MainMenu
+[2026.06.15-04.07.16:505][670]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2026.06.15-04.07.16:505][670]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.15-04.07.16:505][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.06.15-04.07.16:505][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.15-04.07.16:505][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.15-04.07.16:505][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.15-04.07.16:505][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.15-04.07.16:505][670]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.06.15-04.07.16:506][670]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Using Audio Hardware Device Ryzen HD Audio Controller Analog Stereo
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.15-04.07.16:506][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=6
+[2026.06.15-04.07.16:507][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.06.15-04.07.16:507][670]LogInit: FAudioDevice initialized with ID 6.
+[2026.06.15-04.07.16:507][670]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_MainMenu'.
+[2026.06.15-04.07.16:507][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.15-04.07.16:516][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.15-04.07.16:516][670]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.06.15-04.07.16:516][670]LogWorld: Bringing World /Game/UI/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu up for play (max tick rate 0) at 2026.06.15-16.07.16
+[2026.06.15-04.07.16:516][670]LogWorld: Bringing up level for play took: 0.000318
+[2026.06.15-04.07.16:517][670]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.06.15-04.07.16:517][670]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.06.15-04.07.16:517][670]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.06.15-04.07.16:517][670]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.06.15-04.07.16:520][670]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.06.15-04.07.16:520][670]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.06.15-04.07.16:520][670]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.06.15-04.07.16:520][670]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.06.15-04.07.16:524][670]PIE: Server logged in
+[2026.06.15-04.07.16:526][670]PIE: Play in editor total start time 0.055 seconds.
+[2026.06.15-04.07.17:864][802]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2026.06.15-04.07.17:864][802]LogGameState: Match State Changed from InProgress to LeavingMap
+[2026.06.15-04.07.17:864][802]LogGlobalStatus: Browse Started Browse: "/Game/ThirdPerson/Lvl_ThirdPerson"
+[2026.06.15-04.07.17:864][802]LogNet: Browse: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.07.17:864][802]LogLoad: LoadMap: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.07.17:864][802]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Lvl_MainMenu
+[2026.06.15-04.07.17:865][802]LogWorld: UWorld::CleanupWorld for Lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.06.15-04.07.17:865][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.07.17:921][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.15-04.07.17:923][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-04.07.17:924][802]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.15-04.07.17:927][802]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2026.06.15-04.07.17:927][802]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.06.15-04.07.17:928][802]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.15-04.07.17:928][802]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.15-04.07.17:928][802]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.06.15-04.07.17:928][802]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.15-04.07.17:929][802]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.06.15-04.07.17:932][802]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 3.099 ms (total: 51.192 ms)
+[2026.06.15-04.07.17:932][802]LogWorldPartition: Display: WorldPartition initialize took 4.174 ms (total: 60.113 ms)
+[2026.06.15-04.07.17:932][802]LogPlayLevel: PIE: World Init took: (0.005572s)
+[2026.06.15-04.07.17:932][802]LogLoad: Game class is 'GM_ThirdPersonGameMode_C'
+[2026.06.15-04.07.17:936][802]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.06.15-16.07.17
+[2026.06.15-04.07.17:937][802]LogWorld: Bringing up level for play took: 0.004225
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.06.15-04.07.17:939][802]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.06.15-04.07.17:939][802]LogLoad: Took 0.075528 seconds to LoadMap(/Game/ThirdPerson/Lvl_ThirdPerson)
+[2026.06.15-04.07.17:939][802]LogGlobalStatus: LoadMap Load map complete /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.07.18:468][845]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Attack (Left Click)
+[2026.06.15-04.07.19:100][894]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.19:101][894]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.19:113][895]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.19:165][899]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.19:178][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.19:178][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.20:301][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.20:563][ 10]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.20:654][ 17]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.20:703][ 21]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.20:954][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.21:043][ 48]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.22:112][133]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.22:112][133]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.22:124][134]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.22:176][138]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.22:637][175]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.22:663][177]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.23:027][206]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.23:105][212]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.23:155][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.23:515][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.23:695][258]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.23:695][258]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.24:013][283]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.24:013][283]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.24:027][284]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.24:053][286]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.24:156][294]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.24:339][308]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.24:545][324]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.24:703][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.25:027][362]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.25:682][414]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.25:695][415]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.25:709][416]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.25:709][416]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.25:759][420]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.26:009][440]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.26:034][442]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.26:831][505]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.27:021][520]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.27:691][573]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.27:741][577]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.27:815][583]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.27:981][596]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.28:255][618]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.28:428][632]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.28:690][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.28:806][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.28:819][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.28:819][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.28:832][664]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.28:883][668]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.29:289][700]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.29:440][712]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.30:333][784]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0AE502_1202477079] Attacking
+[2026.06.15-04.07.30:420][791]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.31:419][872]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.32:426][953]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.33:519][ 41]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.33:895][ 71]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.36:013][240]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.36:207][255]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.39:880][541]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.40:883][618]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.07.41:396][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.41:396][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.41:409][660]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.41:692][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.41:837][693]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.07.42:177][720]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.07.42:665][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.15-04.07.42:665][757]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.06.15-04.07.42:666][757]LogSlate: Window 'Cowboy99 Preview [NetMode: Standalone 0]  (64-bit/PC Vulkan SM6)' being destroyed
+[2026.06.15-04.07.42:671][757]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.15-04.07.42:671][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.07.42:671][757]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.06.15-04.07.42:672][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.15-04.07.42:677][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.07.42:705][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.15-04.07.42:708][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-04.07.42:746][759]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.06.15-04.07.45:836][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.07.50:784][376]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.15-04.07.50:807][376]LogAutomationController: Ignoring very large delta of 2.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.15-04.07.59:290][583]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.15-04.07.59:319][583]LogAutomationController: Ignoring very large delta of 6.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.15-04.08.00:309][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.08.00:313][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.08.00:359][699]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.08.00:359][699]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.08.00:373][699]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.08.00:373][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.08.00:373][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.08.00:382][699]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.08.00:382][699]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter7D1EA94A0CDC4B63B655817537CDABA0.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.08.00:393][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.846 ms (total: 2.26 sec)
+[2026.06.15-04.08.00:434][699]LogContentValidation: Enabled validators:
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.08.00:434][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.08.00:434][699]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.08.00:434][699]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.08.00:434][699]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.08.00:434][699]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.08.00:434][699]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.08.09:333][733]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-04.08.09:395][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.15-04.08.13:866][169]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.06.15-04.08.13:871][169]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.06.15-04.08.13:871][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.15-04.08.13:871][169]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Lvl_MainMenu
+[2026.06.15-04.08.13:872][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000670s)
+[2026.06.15-04.08.13:872][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Lvl_MainMenu.Lvl_MainMenu to /Game/UI/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu (0.000699s)
+[2026.06.15-04.08.13:897][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.06.15-04.08.13:900][169]r.SetRes = "800x800w"
+[2026.06.15-04.08.13:900][169]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_MainMenu
+[2026.06.15-04.08.13:901][169]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2026.06.15-04.08.13:901][169]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.06.15-04.08.13:901][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.15-04.08.13:901][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.15-04.08.13:901][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.15-04.08.13:901][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.15-04.08.13:901][169]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'SDL3'
+[2026.06.15-04.08.13:901][169]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2026.06.15-04.08.13:901][169]LogAudioMixer: Display: Using Audio Hardware Device Ryzen HD Audio Controller Analog Stereo
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=7
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.15-04.08.13:902][169]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.15-04.08.13:902][169]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_MainMenu'.
+[2026.06.15-04.08.13:902][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.15-04.08.13:913][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.15-04.08.13:913][169]LogLoad: Game class is 'GM_MainMenu_C'
+[2026.06.15-04.08.13:914][169]LogWorld: Bringing World /Game/UI/UEDPIE_0_Lvl_MainMenu.Lvl_MainMenu up for play (max tick rate 0) at 2026.06.15-16.08.13
+[2026.06.15-04.08.13:914][169]LogWorld: Bringing up level for play took: 0.000307
+[2026.06.15-04.08.13:914][169]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.06.15-04.08.13:914][169]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2026.06.15-04.08.13:914][169]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2026.06.15-04.08.13:914][169]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2026.06.15-04.08.13:918][169]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.06.15-04.08.13:918][169]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.06.15-04.08.13:918][169]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.06.15-04.08.13:918][169]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2026.06.15-04.08.13:921][169]PIE: Server logged in
+[2026.06.15-04.08.13:924][169]PIE: Play in editor total start time 0.053 seconds.
+[2026.06.15-04.08.15:009][262]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2026.06.15-04.08.15:009][262]LogGameState: Match State Changed from InProgress to LeavingMap
+[2026.06.15-04.08.15:009][262]LogGlobalStatus: Browse Started Browse: "/Game/ThirdPerson/Lvl_ThirdPerson"
+[2026.06.15-04.08.15:009][262]LogNet: Browse: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.08.15:009][262]LogLoad: LoadMap: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.08.15:009][262]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Lvl_MainMenu
+[2026.06.15-04.08.15:009][262]LogWorld: UWorld::CleanupWorld for Lvl_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.06.15-04.08.15:009][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.08.15:062][262]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.15-04.08.15:063][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-04.08.15:065][262]LogStreaming: Display: FlushAsyncLoading(612): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.15-04.08.15:068][262]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2026.06.15-04.08.15:068][262]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.06.15-04.08.15:069][262]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.15-04.08.15:069][262]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.15-04.08.15:069][262]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.06.15-04.08.15:069][262]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.15-04.08.15:070][262]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.06.15-04.08.15:073][262]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 2.968 ms (total: 54.160 ms)
+[2026.06.15-04.08.15:073][262]LogWorldPartition: Display: WorldPartition initialize took 3.982 ms (total: 64.096 ms)
+[2026.06.15-04.08.15:073][262]LogPlayLevel: PIE: World Init took: (0.005494s)
+[2026.06.15-04.08.15:073][262]LogLoad: Game class is 'GM_ThirdPersonGameMode_C'
+[2026.06.15-04.08.15:077][262]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.06.15-16.08.15
+[2026.06.15-04.08.15:077][262]LogWorld: Bringing up level for play took: 0.004079
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.06.15-04.08.15:080][262]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.06.15-04.08.15:080][262]LogLoad: Took 0.071243 seconds to LoadMap(/Game/ThirdPerson/Lvl_ThirdPerson)
+[2026.06.15-04.08.15:080][262]LogGlobalStatus: LoadMap Load map complete /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.06.15-04.08.15:668][303]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Attack (Left Click)
+[2026.06.15-04.08.15:995][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.16:060][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.16:299][348]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.16:922][392]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.17:649][443]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.17:663][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.17:663][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.17:805][454]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.18:607][511]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.19:199][553]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.19:473][572]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Attack (Left Click)
+[2026.06.15-04.08.19:643][584]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Attack (Left Click)
+[2026.06.15-04.08.19:717][589]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Interact (Right Click)
+[2026.06.15-04.08.19:913][603]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Interact (Right Click)
+[2026.06.15-04.08.20:322][629]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.20:336][630]LogBlueprintUserMessages: [BP_ThirdPersonPlayerController_C_0] Attack (Left Click)
+[2026.06.15-04.08.20:534][644]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.20:787][662]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.21:097][684]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.22:071][753]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.22:141][758]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.22:155][759]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.22:669][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.23:009][820]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0DE502_1205542608] Attacking
+[2026.06.15-04.08.23:806][877]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.23:904][884]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.24:424][921]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.24:439][922]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.24:761][945]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.25:001][962]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.25:015][963]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.25:016][963]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.25:030][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.25:031][964]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.25:045][965]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.25:132][971]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.25:701][ 11]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0AE502_1202477079] Attacking
+[2026.06.15-04.08.26:473][ 66]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.26:702][ 82]LogBlueprintUserMessages: [BP_AICharacter_C_UAID_9C6B00C0A5AE0AE502_1202477079] Attacking
+[2026.06.15-04.08.26:730][ 84]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.26:949][ 99]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.26:964][100]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.26:964][100]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.26:978][101]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.26:978][101]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.26:993][102]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.27:066][107]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.27:081][108]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.27:126][111]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.27:140][112]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.27:141][112]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Added
+[2026.06.15-04.08.27:155][113]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Target Removed
+[2026.06.15-04.08.27:625][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.15-04.08.27:625][144]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.06.15-04.08.27:625][144]LogSlate: Window 'Cowboy99 Preview [NetMode: Standalone 0]  (64-bit/PC Vulkan SM6)' being destroyed
+[2026.06.15-04.08.27:631][144]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.06.15-04.08.27:632][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.08.27:632][144]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.06.15-04.08.27:632][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.15-04.08.27:637][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.15-04.08.27:662][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.15-04.08.27:664][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.06.15-04.08.27:706][146]LogPlayLevel: Display: Destroying online subsystem :Context_10
