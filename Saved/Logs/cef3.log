@@ -9,3 +9,4 @@
 [57478:57478:0615/110527.192694:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
 [57478:57478:0615/110527.192718:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
 [57478:57478:0615/110527.322397:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
+[57478:57750:0615/125104.961790:ERROR:cast_crl.cc(443)] CRL - Verification failed.
