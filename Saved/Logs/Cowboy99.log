@@ -3341,3 +3341,262 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.15-04.08.27:662][144]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
 [2026.06.15-04.08.27:664][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2026.06.15-04.08.27:706][146]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.06.15-04.09.41:101][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.09.41:105][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.09.41:151][643]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.09.41:152][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.09.41:166][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.09.41:166][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.09.41:166][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.09.41:175][643]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.09.41:175][643]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter7084F2F57711478B800293B70E39C487.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.09.41:186][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.434 ms (total: 2.34 sec)
+[2026.06.15-04.09.41:226][643]LogContentValidation: Enabled validators:
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.09.41:226][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.09.41:226][643]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.09.41:226][643]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.09.41:227][643]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.09.41:227][643]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.09.41:227][643]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.12.45:089][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.06.15-04.12.45:093][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.12.45:137][731]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.12.45:137][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.12.45:152][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.12.45:152][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.12.45:152][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.12.45:160][731]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.12.45:160][731]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter1C235A89496C46DF8BF365E60FED237F.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.12.45:170][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.988 ms (total: 2.41 sec)
+[2026.06.15-04.12.45:210][731]LogContentValidation: Enabled validators:
+[2026.06.15-04.12.45:210][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.12.45:210][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.12.45:210][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.12.45:210][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.12.45:211][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.12.45:211][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.12.45:211][731]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.12.45:211][731]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.12.45:211][731]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.12.45:211][731]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.12.45:211][731]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.12.53:091][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.12.53:095][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.12.53:139][591]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.12.53:140][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.12.53:140][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.12.53:140][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.12.53:148][591]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.12.53:149][591]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter8A2754113AD6457B94EC5781C154CFF1.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.12.53:157][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.791 ms (total: 2.48 sec)
+[2026.06.15-04.12.53:198][591]LogContentValidation: Enabled validators:
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.12.53:198][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.12.53:198][591]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.12.53:198][591]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.12.53:198][591]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.12.53:198][591]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.12.53:198][591]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.12.53:253][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.15-04.13.07:717][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.13.07:721][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.07:765][167]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.07:765][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.07:765][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.07:765][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.07:774][167]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.07:774][167]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterD2A202AB6BCA4E34A5F278372813E3A9.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.07:784][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.644 ms (total: 2.54 sec)
+[2026.06.15-04.13.07:825][167]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.07:825][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.07:825][167]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.07:825][167]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.07:825][167]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.07:825][167]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.07:825][167]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.15:227][984]LogEditorTransaction: Undo Move Node
+[2026.06.15-04.13.25:059][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.06.15-04.13.25:065][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.25:112][ 23]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.25:112][ 23]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.25:126][ 23]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/BP_AICharacter.BP_AICharacter]
+[2026.06.15-04.13.25:126][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.25:126][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.25:135][ 23]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.25:135][ 23]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterF38402F445F849688EB86210D3930A16.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.25:146][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.707 ms (total: 2.62 sec)
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.25:189][ 23]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.25:189][ 23]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.25:189][ 23]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.28:998][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.13.29:001][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.29:056][430]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.29:056][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.29:056][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.29:056][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.29:068][430]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.29:068][430]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterBBA01891879749CF94EF8C121F84B4EF.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.29:083][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.572 ms (total: 2.70 sec)
+[2026.06.15-04.13.29:130][430]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.29:130][430]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.29:130][430]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.29:130][430]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.29:130][430]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.29:130][430]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.29:130][430]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.33:464][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.13.33:467][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.33:513][886]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.33:514][886]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.33:514][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.33:514][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.33:522][886]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.33:522][886]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterFE464D918A874A6FB0C61881B224864E.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.33:532][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.292 ms (total: 2.77 sec)
+[2026.06.15-04.13.33:575][886]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.33:575][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.33:575][886]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.33:575][886]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.33:575][886]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.33:575][886]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.33:575][886]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.36:836][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.06.15-04.13.36:840][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.36:887][228]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.36:887][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.36:887][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.36:887][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.36:895][228]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.36:895][228]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacterCA8489E7A9F24176ABFACBE0D25D183F.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.36:905][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.451 ms (total: 2.83 sec)
+[2026.06.15-04.13.36:947][228]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.36:947][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.36:947][228]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.36:947][228]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.36:947][228]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.36:947][228]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.36:947][228]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.51:541][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.06.15-04.13.51:545][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.51:593][785]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.51:594][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.51:594][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.51:594][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.51:602][785]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.51:602][785]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter21D2FDD092674FB39AEA9B01E42AD984.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.51:612][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.049 ms (total: 2.90 sec)
+[2026.06.15-04.13.51:656][785]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.51:656][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.51:656][785]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.51:656][785]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.51:657][785]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.51:657][785]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.51:657][785]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.13.58:744][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.13.58:748][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.13.58:794][538]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.58:795][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.13.58:795][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.13.58:795][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.13.58:802][538]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.13.58:803][538]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter898D721E56924182A84A63256AD991CF.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.13.58:813][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.799 ms (total: 2.97 sec)
+[2026.06.15-04.13.58:854][538]LogContentValidation: Enabled validators:
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.13.58:854][538]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.13.58:854][538]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.13.58:854][538]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.13.58:854][538]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.13.58:854][538]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.13.58:854][538]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.14.11:616][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.14.11:619][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.14.11:666][897]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.14.11:666][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.14.11:666][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.14.11:666][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.14.11:674][897]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.14.11:674][897]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter2817EB5F0B964164BCFC6563E11316A7.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.14.11:684][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.681 ms (total: 3.03 sec)
+[2026.06.15-04.14.11:726][897]LogContentValidation: Enabled validators:
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.14.11:726][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.14.11:726][897]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.14.11:726][897]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.14.11:727][897]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.14.11:727][897]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.14.11:727][897]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.14.15:344][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.15-04.14.15:348][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.15-04.14.15:396][275]LogFileHelpers: Saving Package: /Game/AI/BP_AICharacter
+[2026.06.15-04.14.15:396][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BP_AICharacter] ([2] browsable assets)...
+[2026.06.15-04.14.15:396][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BP_AICharacter]
+[2026.06.15-04.14.15:396][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_AICharacter" FILE="../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset" SILENT=true
+[2026.06.15-04.14.15:404][275]LogSavePackage: Moving output files for package: /Game/AI/BP_AICharacter
+[2026.06.15-04.14.15:404][275]LogSavePackage: Moving '../../../../Documents/Unreal Projects/Cowboy99/Saved/BP_AICharacter609B38E9B44144339F9306EF5BFDD04F.tmp' to '../../../../Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset'
+[2026.06.15-04.14.15:417][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.902 ms (total: 3.10 sec)
+[2026.06.15-04.14.15:459][275]LogContentValidation: Enabled validators:
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.15-04.14.15:459][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.15-04.14.15:459][275]LogContentValidation: Display: Starting to validate 1 assets (0 associated objects such as actors)
+[2026.06.15-04.14.15:459][275]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.06.15-04.14.15:459][275]AssetCheck: /Game/AI/BP_AICharacter Validating asset
+[2026.06.15-04.14.15:459][275]LogContentValidation: Validated asset counts for 1 validators:
+[2026.06.15-04.14.15:459][275]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.06.15-04.14.19:701][720]LogBlueprint: Compiling Blueprint '/Game/AI/BP_AICharacter.BP_AICharacter'
+[2026.06.15-04.14.19:761][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
