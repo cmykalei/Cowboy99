@@ -9,3 +9,5 @@
 [72114:72114:0615/154434.813337:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=256
 [72114:72114:0615/154434.813358:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 3 time(s)
 [72114:72114:0615/154434.942777:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 0 ms
+[72114:72328:0615/165056.276295:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[72114:72328:0615/181956.381026:ERROR:cast_crl.cc(443)] CRL - Verification failed.
