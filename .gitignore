@@ -1,0 +1,83 @@
+# =========================================================================
+# Unreal Engine Gitignore
+# =========================================================================
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.pdb
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# =========================================================================
+# IDE and Editor Files (Generated)
+# =========================================================================
+# Linux specific IDE and build files
+Makefile
+*.workspace
+*.cbp
+
+# Visual Studio / VS Code user specific files
+.vs/
+.vscode/
+.vsconfig
+*.VC.db
+*.VC.opendb
+
+# JetBrains Rider / CLion
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcodeproj
+*.xcworkspace
+*.DotSettings.user
+*.iml
+
+# =========================================================================
+# Unreal Engine Generated Directories & Caches
+# =========================================================================
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+Profiling/
+Screenshots/
+Autosaves/
+
+# Plugins Binaries and Intermediates
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Build documentation
+*.xcodeproj
+*.xcworkspace
+
+# Cooked content
+Saved/Cooked/
+*.uplugin.bak
+
+# =========================================================================
+# Project-Specific Ignores
+# =========================================================================
+# Add any local builds, packaged outputs, or source art directories here
