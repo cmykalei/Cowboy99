@@ -19,7 +19,10 @@
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/Input/Actions/IA_Attack.uasset",
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
 				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Blueprints/GM_ThirdPersonGameMode.uasset",
-				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Lvl_ThirdPerson.umap"
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/AI/BP_Sheep.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/AI/BP_AICharacter.uasset",
+				"/home/kalei/Documents/Unreal Projects/Cowboy99/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/UV/6LHB8G2JVLIJZT3KO8QDR4.uasset"
 			]
 		}
 	]

@@ -1,2 +1,3 @@
-2026/06/15-11:05:25.362 e1aa Creating DB /home/kalei/Documents/Unreal Projects/Cowboy99/Saved/webcache_6613/Default/Local Storage/leveldb since it was missing.
-2026/06/15-11:05:25.369 e1aa Reusing MANIFEST /home/kalei/Documents/Unreal Projects/Cowboy99/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/15-13:35:48.437 10351 Reusing MANIFEST /home/kalei/Documents/Unreal Projects/Cowboy99/Saved/webcache_6613/Default/Local Storage/leveldb/MANIFEST-000001
+2026/06/15-13:35:48.440 10351 Recovering log #3
+2026/06/15-13:35:48.440 10351 Reusing old log /home/kalei/Documents/Unreal Projects/Cowboy99/Saved/webcache_6613/Default/Local Storage/leveldb/000003.log 
