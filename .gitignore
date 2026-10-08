@@ -2,6 +2,8 @@
 # Unreal Engine Gitignore
 # =========================================================================
 
+.DS_Store
+
 # Compiled Object files
 *.slo
 *.lo
